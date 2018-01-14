@@ -53,7 +53,7 @@ To encourage a more serious discussion on your post, you may preface it with a [
 
 If you have an issue with a member or [moderator](#moderators) please take it up with the moderators privately via Facebook message to avoid people ganging up or taking sides in an argument in which they are not directly involved. It’s best to contact the moderators on Facebook via private group message so we can discuss the issue with you. We promise that everything will be confidential and we won’t get mad at you if you have a complaint.
 
-We also have a [confidential form](http://hh.gd/feedback) if you would rather your incident not be tied to your identity.
+We also have a [confidential form](https://docs.google.com/forms/d/e/1FAIpQLSdJSz-wtSNuTqzQf80tC6B8cHQD___WbmpnsoYozYdZ6XkMDg/viewform) if you would rather your incident not be tied to your identity.
 
 ## About Hackathon Hackers
 
